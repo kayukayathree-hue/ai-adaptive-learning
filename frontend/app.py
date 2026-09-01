@@ -1,4 +1,6 @@
+import streamlit as st
 
+st.write("Gemini secret exists:", "GEMINI_API_KEY" in st.secrets)
 import json
 import os
 import sys
