@@ -1,0 +1,127 @@
+{
+  "regression": [
+    {
+      "id": "r1",
+      "question": "What is regression analysis mainly used for?",
+      "options": [
+        "Modeling relationships between variables and making predictions",
+        "Only grouping data into categories",
+        "Only removing missing values",
+        "Only creating charts"
+      ],
+      "answer": 0,
+      "concept": "regression_basics"
+    },
+    {
+      "id": "r2",
+      "question": "In regression, what is the dependent variable?",
+      "options": [
+        "The variable used as an input for prediction",
+        "The variable we want to predict or explain",
+        "A variable that is always categorical",
+        "A variable that is always binary"
+      ],
+      "answer": 1,
+      "concept": "dependent_variable"
+    },
+    {
+      "id": "r3",
+      "question": "What is the main difference between simple and multiple linear regression?",
+      "options": [
+        "Simple regression uses one independent variable, while multiple regression uses several",
+        "Simple regression is only used for categories",
+        "Multiple regression cannot make predictions",
+        "There is no difference"
+      ],
+      "answer": 0,
+      "concept": "linear_regression_types"
+    },
+    {
+      "id": "r4",
+      "question": "Which type of regression is commonly used when the dependent variable has two categories such as yes or no?",
+      "options": [
+        "Simple linear regression",
+        "Multiple linear regression",
+        "Binary logistic regression",
+        "Polynomial regression"
+      ],
+      "answer": 2,
+      "concept": "logistic_regression"
+    },
+    {
+      "id": "r5",
+      "question": "Which of the following is an example of using regression for prediction?",
+      "options": [
+        "Predicting hospital stay duration from patient characteristics",
+        "Separating cats from dogs",
+        "Detecting spam emails only",
+        "Grouping students randomly"
+      ],
+      "answer": 0,
+      "concept": "regression_prediction"
+    }
+  ],
+
+  "classification": [
+    {
+      "id": "c1",
+      "question": "What does classification predict?",
+      "options": [
+        "A continuous numerical value",
+        "A category or class",
+        "Only missing values",
+        "Only percentages"
+      ],
+      "answer": 1,
+      "concept": "classification_basics"
+    },
+    {
+      "id": "c2",
+      "question": "Classification is generally a type of which machine learning approach?",
+      "options": [
+        "Supervised learning",
+        "Unsupervised learning only",
+        "Reinforcement learning only",
+        "Data cleaning"
+      ],
+      "answer": 0,
+      "concept": "supervised_learning"
+    },
+    {
+      "id": "c3",
+      "question": "Which is an example of a classification problem?",
+      "options": [
+        "Predicting a person's salary",
+        "Predicting hospital stay duration",
+        "Classifying an email as spam or not spam",
+        "Predicting electricity consumption"
+      ],
+      "answer": 2,
+      "concept": "classification_examples"
+    },
+    {
+      "id": "c4",
+      "question": "In image recognition, classification can be used to:",
+      "options": [
+        "Separate images into categories such as dogs and cats",
+        "Only resize images",
+        "Only calculate image dimensions",
+        "Predict a continuous salary"
+      ],
+      "answer": 0,
+      "concept": "image_classification"
+    },
+    {
+      "id": "c5",
+      "question": "In customer churn modeling, classification can be used to predict:",
+      "options": [
+        "Whether a customer is likely to leave or stay",
+        "The exact salary of the customer",
+        "The number of images uploaded",
+        "The video duration"
+      ],
+      "answer": 0,
+      "concept": "classification_prediction"
+    }
+  ]
+}

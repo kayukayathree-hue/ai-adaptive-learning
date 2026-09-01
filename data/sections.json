@@ -1,0 +1,67 @@
+{
+  "regression": [
+    {
+      "id": "regression_basics",
+      "name": "Regression Basics",
+      "start": 0,
+      "end": 120
+    },
+    {
+      "id": "dependent_variable",
+      "name": "Dependent Variable",
+      "start": 120,
+      "end": 200
+    },
+    {
+      "id": "independent_variable",
+      "name": "Independent Variable",
+      "start": 200,
+      "end": 260
+    },
+    {
+      "id": "regression_types",
+      "name": "Types of Regression",
+      "start": 260,
+      "end": 390
+    },
+    {
+      "id": "linear_regression",
+      "name": "Linear Regression",
+      "start": 260,
+      "end": 330
+    },
+    {
+      "id": "logistic_regression",
+      "name": "Logistic Regression",
+      "start": 330,
+      "end": 390
+    }
+  ],
+
+  "classification": [
+    {
+      "id": "classification_basics",
+      "name": "Classification Basics",
+      "start": 0,
+      "end": 45
+    },
+    {
+      "id": "classification_vs_regression",
+      "name": "Classification vs Regression",
+      "start": 20,
+      "end": 45
+    },
+    {
+      "id": "classification_applications",
+      "name": "Classification Applications",
+      "start": 45,
+      "end": 120
+    },
+    {
+      "id": "supervised_learning",
+      "name": "Supervised Learning",
+      "start": 20,
+      "end": 50
+    }
+  ]
+}

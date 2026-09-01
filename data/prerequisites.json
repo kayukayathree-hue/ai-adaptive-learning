@@ -1,0 +1,24 @@
+{
+    "regression": {
+        "name": "Regression",
+        "description": "Regression analysis models relationships between variables and can be used to make predictions.",
+        "video": "videos/regression.mp4",
+        "teaching_methods": [
+            "Direct Explanation",
+            "Example First",
+            "Analogy",
+            "Visual Explanation"
+        ]
+    },
+    "classification": {
+        "name": "Classification",
+        "description": "Classification is a supervised learning technique used to predict categories.",
+        "video": "videos/classification.mp4",
+        "teaching_methods": [
+            "Direct Explanation",
+            "Example First",
+            "Analogy",
+            "Visual Explanation"
+        ]
+    }
+}

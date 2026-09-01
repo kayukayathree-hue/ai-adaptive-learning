@@ -1,0 +1,151 @@
+{
+  "regression": [
+    {
+      "id": 1,
+      "question": "What is regression analysis mainly used for?",
+      "options": [
+        "Predicting or explaining a variable using one or more other variables",
+        "Grouping images into categories",
+        "Encrypting data",
+        "Sorting data alphabetically"
+      ],
+      "answer": "Predicting or explaining a variable using one or more other variables",
+      "concept": "regression_basics"
+    },
+    {
+      "id": 2,
+      "question": "In regression, what is the dependent variable?",
+      "options": [
+        "The variable we want to explain or predict",
+        "The variable used only for training",
+        "The variable that is always categorical",
+        "The variable that is removed from the dataset"
+      ],
+      "answer": "The variable we want to explain or predict",
+      "concept": "dependent_variable"
+    },
+    {
+      "id": 3,
+      "question": "What are the variables used to predict the dependent variable called?",
+      "options": [
+        "Independent variables",
+        "Target variables",
+        "Response variables",
+        "Output variables"
+      ],
+      "answer": "Independent variables",
+      "concept": "independent_variable"
+    },
+    {
+      "id": 4,
+      "question": "How does multiple linear regression differ from simple linear regression?",
+      "options": [
+        "It uses several independent variables",
+        "It only uses categorical variables",
+        "It cannot make predictions",
+        "It always predicts a category"
+      ],
+      "answer": "It uses several independent variables",
+      "concept": "multiple_linear_regression"
+    },
+    {
+      "id": 5,
+      "question": "What type of dependent variable is normally used in linear regression?",
+      "options": [
+        "A numeric or continuous variable",
+        "Only yes or no",
+        "Only text",
+        "Only images"
+      ],
+      "answer": "A numeric or continuous variable",
+      "concept": "linear_regression"
+    },
+    {
+      "id": 6,
+      "question": "What type of dependent variable is used in logistic regression?",
+      "options": [
+        "A categorical variable",
+        "Only a continuous variable",
+        "Only a decimal number",
+        "Only a date"
+      ],
+      "answer": "A categorical variable",
+      "concept": "logistic_regression"
+    }
+  ],
+
+  "classification": [
+    {
+      "id": 1,
+      "question": "What is classification used for in machine learning?",
+      "options": [
+        "Predicting a category",
+        "Predicting only continuous numbers",
+        "Calculating the average",
+        "Sorting records alphabetically"
+      ],
+      "answer": "Predicting a category",
+      "concept": "classification_basics"
+    },
+    {
+      "id": 2,
+      "question": "Classification is mainly a type of which learning approach?",
+      "options": [
+        "Supervised learning",
+        "Unsupervised learning only",
+        "Reinforcement learning only",
+        "Random learning"
+      ],
+      "answer": "Supervised learning",
+      "concept": "supervised_learning"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is an example of classification?",
+      "options": [
+        "Classifying an email as spam or not spam",
+        "Predicting a person's salary",
+        "Predicting house price",
+        "Predicting temperature"
+      ],
+      "answer": "Classifying an email as spam or not spam",
+      "concept": "classification_example"
+    },
+    {
+      "id": 4,
+      "question": "What does a classification model predict?",
+      "options": [
+        "A category or class",
+        "Only a continuous number",
+        "Only the training time",
+        "Only the number of features"
+      ],
+      "answer": "A category or class",
+      "concept": "classification_output"
+    },
+    {
+      "id": 5,
+      "question": "Which example represents binary classification?",
+      "options": [
+        "Spam or not spam",
+        "Predicting salary",
+        "Predicting height",
+        "Predicting electricity consumption"
+      ],
+      "answer": "Spam or not spam",
+      "concept": "binary_classification"
+    },
+    {
+      "id": 6,
+      "question": "Which application mentioned in the lesson uses classification to identify customers who may leave a business?",
+      "options": [
+        "Customer churn prediction",
+        "Linear regression",
+        "Image compression",
+        "Data sorting"
+      ],
+      "answer": "Customer churn prediction",
+      "concept": "classification_application"
+    }
+  ]
+}
