@@ -7,7 +7,7 @@ import os
 import streamlit.components.v1 as components
 
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://ai-adaptive-learning-cy6u.onrender.com"
 
 
 def _to_float(value):

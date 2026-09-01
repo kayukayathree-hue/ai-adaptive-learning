@@ -302,7 +302,7 @@ def get_video_tracking(student, concept):
         )
 
         url = (
-            "http://127.0.0.1:8000"
+            "https://ai-adaptive-learning-cy6u.onrender.com"
             f"/tracking/video/{safe_student}/{safe_concept}"
         )
 
@@ -1418,7 +1418,7 @@ else:
     else:
         st.warning(
             "Unable to connect to the tracking server. "
-            "Start FastAPI on http://127.0.0.1:8000."
+            "Start FastAPI on https://ai-adaptive-learning-cy6u.onrender.com"
         )
 
     # ========================================================
