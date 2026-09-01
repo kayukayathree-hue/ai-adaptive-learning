@@ -14,7 +14,9 @@ app = FastAPI(
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=[
+        "https://ai-adaptive-learning-tetm5temjtjfn6zxyq6mdb.streamlit.app",
+    ],
     allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
